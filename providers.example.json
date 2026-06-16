@@ -1,0 +1,17 @@
+{
+  "providers": {
+    "mimo": {
+      "api_base": "https://api.xiaomimimo.com/v1",
+      "api_key_env": "MIMO_API_KEY",
+      "model": "mimo-v2-omni",
+      "auth_type": "api-key"
+    },
+    "qwen": {
+      "api_base": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+      "api_key_env": "QWEN_API_KEY",
+      "model": "qwen-vl-max",
+      "auth_type": "bearer"
+    }
+  },
+  "default_provider": "mimo"
+}
