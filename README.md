@@ -118,6 +118,10 @@ Use qwen to analyze this image: /path/to/photo.jpg
 
 All tools accept an optional `provider` parameter to select which vision provider to use.
 
+### Acknowledgments
+
+This project was inspired by [congxxx/mimo-media-recognition-mcp](https://github.com/congxxx/mimo-media-recognition-mcp).
+
 ### License
 
 MIT License - see [LICENSE](LICENSE) for details.
@@ -237,6 +241,10 @@ claude mcp add vision-mcp --scope user \
 | `list_providers` | 列出所有已配置的 provider |
 
 所有工具都支持可选的 `provider` 参数来选择使用哪个视觉 provider。
+
+### 致谢
+
+本项目灵感来源于 [congxxx/mimo-media-recognition-mcp](https://github.com/congxxx/mimo-media-recognition-mcp)。
 
 ### 许可证
 
